@@ -1,4 +1,4 @@
-package hacker
+package main
 import (
 	"testing"
 )
