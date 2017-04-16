@@ -39,4 +39,5 @@ vagrant@GoLang:~$ export GOROOT= /usr/local/go
     vagrant@GoLang:~$ git clone https://github.com/maheshreddy7797/golangUT
     vagrant@GoLang:~$ cd golangUT
     vagrant@GoLang:~$ go test -coverprofile = ./
+    ok  	_/home/vagrant/golangUT	0.005s	coverage: 100.0% of statements
 ```
