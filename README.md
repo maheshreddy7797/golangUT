@@ -33,7 +33,7 @@ vagrant@GoLang:~$ export GOPATH= /home/vagrant/go
 vagrant@GoLang:~$ export GOROOT= /usr/local/go
 ```
 
-## Running Go files present in this repository
+## Running Go test and displaying code coverage for the go files present in this repository
 
 ```
     vagrant@GoLang:~$ git clone https://github.com/maheshreddy7797/golangUT
