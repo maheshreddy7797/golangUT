@@ -1,6 +1,6 @@
 # Install GoLang on VM
 
-A [Vagrantfile](https://github.com/maheshreddy7797/golangUT/Vagrantfile) is placed that can install Golang software on ubuntu VM.
+A [Vagrantfile](https://github.com/maheshreddy7797/golangUT/blob/master/Vagrantfile) is placed that can install Golang software on ubuntu VM.
 
 ## Prerequisites
 
