@@ -1,6 +1,5 @@
 package hacker
 import (
-	. "strings"
 	"testing"
 )
 var compareTests = []struct {
